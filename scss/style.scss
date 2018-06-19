@@ -203,6 +203,9 @@ body {
             margin-top: 1rem;
             padding: 0;
         }
+        @media (min-width: 768px) {
+            margin-top: 0;
+        }
         @media (min-width: 992px) {
             margin-top: 0;
             padding: 0 3rem;
